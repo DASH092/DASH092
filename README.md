@@ -6,7 +6,7 @@
 - Year: 3
 - Why this course: Seemed Interesting
 - What got me interested in Psych: Unknown
-- Career Plans: **Survival** :X: 
+- Career Plans: **Survival** :x: 
 
 <!--
 **DASH092/DASH092** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
